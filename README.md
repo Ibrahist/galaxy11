@@ -1,5 +1,9 @@
 # Python-Ransomware
 
+<<<<<<< Updated upstream
+=======
+To test the Ransomware out on your local machine,
+>>>>>>> Stashed changes
 
 To test the Ransomware out on your machine.👍
 
